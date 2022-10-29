@@ -1,3 +1,3 @@
 print("hai")
 print("hello")
-pritn("sas")
+pritn("sud")
