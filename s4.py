@@ -1,3 +1,4 @@
 print("hai")
 print("hello")
-pritn("sud")
+print("sud")
+print("kal")
